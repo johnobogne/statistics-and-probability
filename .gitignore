@@ -1,0 +1,4 @@
+__pycache__/**
+build/*/*.*
+draft.py
+mean_of_sampling_distribution_of_sample_means.spec
